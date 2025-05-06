@@ -1,15 +1,13 @@
 # cs668
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [Research Questions](#-research-questions)
-- [Dataset](#-dataset)
-- [Methodology](#-methodology)
-- [Key Findings](#-key-findings)
-- [Limitations](#-limitations)
-- [Future Work](#-future-work)
-- [Tools Used](#-tools-used)
-- [How to Use](#-how-to-use)
+- [Abstract](#abstract)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
 
 
 # Injury Prediction in Professional Football Players
@@ -27,7 +25,7 @@ This project analyzes player injury data to investigate how player traits are as
 
 ## Dataset
 📂 The dataset is available here: [player_injuries_impact.csv](./player_injuries_impact.csv)
-
+git push origin main
 
 - **Total Entries:** 656 injury records
 - **Features:**  
