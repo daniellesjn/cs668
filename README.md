@@ -2,12 +2,15 @@
 
 ## Table of Contents
 
-- [Abstract](#abstract)
+- [Research Questions](#research-questions)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
-- [Results](#results)
+- [Key Findings](#key-findings)
 - [Limitations](#limitations)
 - [Future Work](#future-work)
+- [Tools Used](#tools-used)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
 
 
 # Injury Prediction in Professional Football Players
