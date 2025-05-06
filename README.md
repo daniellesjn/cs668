@@ -10,7 +10,6 @@
 - [Future Work](#-future-work)
 - [Tools Used](#-tools-used)
 - [How to Use](#-how-to-use)
-- [Contact](#-contact)
 
 
 # Injury Prediction in Professional Football Players
@@ -27,6 +26,8 @@ This project analyzes player injury data to investigate how player traits are as
 ---
 
 ## Dataset
+📂 The dataset is available here: [player_injuries_impact.csv](./player_injuries_impact.csv)
+
 
 - **Total Entries:** 656 injury records
 - **Features:**  
