@@ -1,20 +1,16 @@
 # cs668
 
 ## Table of Contents
-
+- [Abstract](#abstract)
 - [Research Questions](#research-questions)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
-- [Key Findings](#key-findings)
+- [Results](#results)
 - [Limitations](#limitations)
-- [Future Work](#future-work)
-- [Tools Used](#tools-used)
-- [How to Use](#how-to-use)
-- [Contact](#contact)
-
 
 # Injury Prediction in Professional Football Players
 
+# Abstract
 This project analyzes player injury data to investigate how player traits are associated with injury type and severity. It also explores the use of machine learning models to predict injury outcomes based on player characteristics.
 
 ---
@@ -67,7 +63,7 @@ git push origin main
 
 ---
 
-## Key Findings
+## Results
 
 - **Age** was significantly associated with both injury severity and type (p < 0.05)
 - **Position** was **not** significantly related to injury type
@@ -85,28 +81,3 @@ git push origin main
 - Limited features — does not include training load, match intensity, or biomechanics
 
 ---
-
-## Future Work
-
-- Include non-injured players to model injury risk  
-- Add contextual features (e.g., minutes played, workload metrics)  
-- Explore deep learning models or ensemble pipelines for improved prediction
-
----
-
-## Tools Used
-
-- Python, Pandas, Scikit-learn  
-- Seaborn, Matplotlib  
-- Jupyter Notebook
-
----
-
-## How to Use
-
-1. Clone the repository  
-2. Place the `player_injuries_impact.csv` file in the working directory  
-3. Run the notebook or script to perform analysis and generate plots
-
----
-
