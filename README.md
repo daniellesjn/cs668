@@ -24,7 +24,6 @@ This project analyzes player injury data to investigate how player traits are as
 
 ## Dataset
 📂 The dataset is available here: [player_injuries_impact.csv](./player_injuries_impact.csv)
-git push origin main
 
 - **Total Entries:** 656 injury records
 - **Features:**  
