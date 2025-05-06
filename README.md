@@ -1,4 +1,14 @@
 # cs668
+
+## 📚 Table of Contents
+
+- [Abstract](#abstract)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Limitations](#limitations)
+- [Poster](#poster)
+
 # ⚽ Injury Prediction in Professional Football Players
 
 This project analyzes player injury data to investigate how player traits are associated with injury type and severity. It also explores the use of machine learning models to predict injury outcomes based on player characteristics.
