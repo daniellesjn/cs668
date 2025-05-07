@@ -73,8 +73,15 @@ For prediction tasks, five classification models were used—Logistic Regression
 
 ## Limitations
 
-- Only includes injured players — no control group of uninjured players
-- Injury type distribution is imbalanced
-- Limited features — does not include training load, match intensity, or biomechanics
+- Only includes injured players. There was no control group of uninjured players
+- Injury type distribution is imbalanced, with a few types making up the majority of cases.
+- The data had limited features. It dooes not include training load, match intensity, or biomechanics
+
+---
+## Poster
+
+You can view the final research poster below:
+
+📄 [View Poster (PDF)](./Poster.pdf)
 
 ---
