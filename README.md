@@ -84,4 +84,6 @@ You can view the final research poster below:
 
 📄 [View Poster (PDF)](./Poster.pdf)
 
+![Poster](./Posterimage.png)
+
 ---
