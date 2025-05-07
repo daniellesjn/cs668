@@ -40,6 +40,7 @@ This project investigates the relationship between professional football players
 
 ## Methodology
 
+
 The project began with data cleaning, where missing or inconsistent values were removed, and injury severity was calculated based on the number of days missed between the recorded injury and return dates. Severity was then categorized as low, moderate, or severe to allow for clearer comparison across cases. Categorical features, such as position and injury type, were encoded numerically to ensure compatibility with machine learning algorithms. Statistical methods were used to understand baseline relationships: ANOVA tested for differences in age and FIFA rating across injury outcomes, while chi-square tests examined any association between player position and injury category. These tests were selected because they are well-established for comparing groups and detecting associations in categorical and numerical data. For prediction tasks, five classification models were used—Logistic Regression, Random Forest, Gradient Boosting, Support Vector Machines, and K-Nearest Neighbors. This range of models was chosen to compare linear and non-linear methods, and to evaluate performance under different assumptions. Model accuracy and F1 scores were used to assess classification success, with ROC curves providing additional insight into how well each model distinguished between classes.
 ---
 
@@ -59,7 +60,8 @@ The project began with data cleaning, where missing or inconsistent values were 
 ![ROC Curve Severity](./Curves2.png)
 ![ROC Curve Severity](./Curves1.png)
 
-### Feature Importance Chart
+### Feature Importance Chartgit push origin main
+
 ![Feature Importance](./chart.png)
 
 
